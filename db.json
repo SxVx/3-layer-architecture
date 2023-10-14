@@ -1,0 +1,123 @@
+{
+  "workouts": [
+    {
+      "id": 1,
+      "name": "Rutina de fuerza",
+      "duration": "60 minutos",
+      "description": "Entrenamiento de fuerza y ​​resistencia",
+      "exercises": [
+        {
+          "name": "Sentadillas",
+          "repetitions": 12,
+          "sets": 4
+        },
+        {
+          "name": "Press de banca",
+          "repetitions": 10,
+          "sets": 4
+        },
+        {
+          "name": "Peso muerto",
+          "repetitions": 8,
+          "sets": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Entrenamiento de cardio",
+      "duration": "45 minutos",
+      "description": "Entrenamiento de alta intensidad",
+      "exercises": [
+        {
+          "name": "Correr en cinta",
+          "time": "20 minutos"
+        },
+        {
+          "name": "Ciclismo estático",
+          "time": "15 minutos"
+        },
+        {
+          "name": "Saltar la cuerda",
+          "time": "10 minutos"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Entrenamiento de flexibilidad",
+      "duration": "30 minutos",
+      "description": "Estiramientos y yoga",
+      "exercises": [
+        {
+          "name": "Estiramientos de piernas",
+          "repetitions": 8
+        },
+        {
+          "name": "Posturas de yoga",
+          "repetitions": 12
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Entrenamiento de resistencia",
+      "duration": "75 minutos",
+      "description": "Entrenamiento de resistencia con pesas",
+      "exercises": [
+        {
+          "name": "Press militar",
+          "repetitions": 8,
+          "sets": 4
+        },
+        {
+          "name": "Curl de bíceps",
+          "repetitions": 10,
+          "sets": 4
+        },
+        {
+          "name": "Zancadas",
+          "repetitions": 12,
+          "sets": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Entrenamiento de alta intensidad",
+      "duration": "50 minutos",
+      "description": "Ejercicios de alta intensidad (HIIT)",
+      "exercises": [
+        {
+          "name": "Burpees",
+          "repetitions": 15,
+          "sets": 4
+        },
+        {
+          "name": "Jumping Jacks",
+          "repetitions": 20,
+          "sets": 4
+        },
+        {
+          "name": "Plancha",
+          "time": "30 segundos",
+          "sets": 3
+        }
+      ]
+    },
+    {
+      "id": "3f3d865b-3c71-4ada-bb88-deb1a50c7fdf",
+      "name": "workOut INSERT",
+      "description": "Entrenamiento de alta intensidad",
+      "duration": "45 minutos",
+      "exercises": [
+        {
+          "name": "Correr en cinta",
+          "time": "20 minutos"
+        }
+      ],
+      "createdAt": "10/14/2023",
+      "updatedAt": "10/14/2023"
+    }
+  ]
+}
